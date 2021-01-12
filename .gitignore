@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # Notebook
-.ipynb
+*.ipynb
+
+# sys
+.DS_Store
